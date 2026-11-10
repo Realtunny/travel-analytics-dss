@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+psycopg2-binary
+pydantic
+python-jose
+pyotp
+qrcode[pil]
+python-multipart
+passlib
